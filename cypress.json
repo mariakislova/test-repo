@@ -1,5 +1,5 @@
 {
-    "baseUrl": "http://812wpiu1v:8081",
+    "baseUrl": "",
     "defaultCommandTimeout": 5000,
     "pageLoadTimeout": 30000,
     "env": {
