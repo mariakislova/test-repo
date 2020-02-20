@@ -1,0 +1,22 @@
+{
+  "name": "my-cypress-test",
+  "version": "1.0.0",
+  "description": "project fro testing 'Cypress' framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariakislova/test-repo.git"
+  },
+  "author": "Maria Kislova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariakislova/test-repo/issues"
+  },
+  "homepage": "https://github.com/mariakislova/test-repo#readme",
+  "devDependencies": {
+    "cypress": "^4.0.2"
+  }
+}
